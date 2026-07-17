@@ -3,9 +3,7 @@ class MainStudent{
 		
 		Student S; 
 		S = new Student(); 
-			
-		S.setStudent(); //get method
-		S.getStudent(); //set method
-	
+		
+		S.getStudent();
 	} 
 } 

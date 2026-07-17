@@ -2,9 +2,9 @@ class Student{
 	int id;
 	String name;
 	
-	void setStudent(int id,String name){
-		this.id=id; 
-		this.name=name;
+	Student(){ //constructor Method
+		id=1000;
+		name="Seelan";
 	}
 	
 	void getStudent(){

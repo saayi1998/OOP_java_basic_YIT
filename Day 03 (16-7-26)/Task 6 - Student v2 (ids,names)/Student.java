@@ -5,7 +5,7 @@ class Student{
 	void setStudent(int ids,String names){
 		id=ids;
 		name=names;
-	}
+	} //parameter
 	
 	void getStudent(){
 		System.out.println("ID:"+id);  
