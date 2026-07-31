@@ -15,7 +15,7 @@ class Student{
 	void display(){
 		System.out.println("First name: "+this.fname);
 		System.out.println("last name: "+this.lname);
-		String fna=getFullname();
+		String fna=this.getFullname();
 		System.out.println("Full name: "+fna);
 	}
 }
