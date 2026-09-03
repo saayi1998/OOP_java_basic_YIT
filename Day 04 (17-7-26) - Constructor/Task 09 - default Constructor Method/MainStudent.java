@@ -5,5 +5,6 @@ class MainStudent{
 		S = new Student(); 
 		
 		S.getStudent();
+		//222
 	} 
 } 
